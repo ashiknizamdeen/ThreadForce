@@ -1,10 +1,11 @@
-# Footcap - Footwear E-commerce Platform
+# ThreadForce - Footwear E-commerce Platform
 
-Welcome to **Footcap**, your one-stop destination for the latest in footwear! We offer an extensive range of shoes for men, women, and sports enthusiasts. This README file will guide you through the project, detailing its features, installation, usage, and more.
+Welcome to **ThreadForce**, your one-stop destination for the latest in footwear! We offer an extensive range of shoes for men, women, and sports enthusiasts. This README file will guide you through the project, detailing its features, installation, usage, and more.
 
 ## Project Overview
 
-**Footcap** is an e-commerce website designed to help customers find and purchase high-quality footwear for various occasions. The platform is built with modern web technologies and provides a seamless shopping experience.
+![Project Screenshot](./assets/screenshot/screenshot.png) 
+**ThreadForce** is an e-commerce website designed to help customers find and purchase high-quality footwear for various occasions. The platform is built with modern web technologies and provides a seamless shopping experience.
 
 ## Features
 
