@@ -10,7 +10,7 @@ Welcome to **ThreadForce**, your one-stop destination for the latest in footwear
 
 ## 📱 Live Demo
 
-[Check out Live Demo](https://threadforce.netlify.app/)
+[Check out the Live Demo](https://threadforce.netlify.app/)
 
 ## Features
 
