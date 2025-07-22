@@ -57,3 +57,5 @@ To set up the **Footcap** project locally, follow the instructions below:
 - The shopping cart icon will display the number of items added.
 - To check out, users need to register or log in to their accounts.
 - Users can also utilize the search bar to find specific products quickly.
+
+**Made with ❤️ by Ashik**
