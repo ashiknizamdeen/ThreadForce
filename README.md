@@ -10,7 +10,7 @@ Welcome to **ThreadForce**, your one-stop destination for the latest in footwear
 
 ## 📱 Live Demo
 
-[Check out the Live Demo](https://smart-recipe-eight.vercel.app/)
+[Check out the Live Demo](https://threadforce.netlify.app/)
 
 ## Features
 
