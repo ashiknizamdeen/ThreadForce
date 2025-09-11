@@ -6,7 +6,7 @@ Welcome to **ThreadForce**, your one-stop destination for the latest in footwear
 
 ![Project Screenshot](./assets/screenshot/screenshot.png) 
 
-**ThreadForce** is an e-commerce website designed to help customers find and purchase high-quality footwear for various occasions. The platform is built with modern web technologies and provides a seamless shopping experience.
+**ThreadForce** is an e-commerce website designed to help customers find and purchase high-quality footwear for various occasions. The platform is built with modern web technologies and provides a seamless shopping experience. More features are coming soon.
 
 ## 📱 Live Website
 
