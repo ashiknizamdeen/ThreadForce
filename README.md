@@ -12,7 +12,7 @@ Welcome to **ThreadForce**, your one-stop destination for the latest in footwear
 
 [Check out the Live Demo](https://threadforce.netlify.app/)
 
-## Features
+## Key Features
 
 - **Comprehensive Collections**: - Men’s, Women’s, and Sports collections.
 - **Bestselling Products**: - Highlighting new and popular footwear.
