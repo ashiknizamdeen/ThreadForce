@@ -1,5 +1,4 @@
-# ThreadForce - Footwear E-commerce Platform
-
+# ThreadForce - Footwear Online Store
 Welcome to **ThreadForce**, your one-stop destination for the latest in footwear! We offer an extensive range of shoes for men, women, and sports enthusiasts. This README file will guide you through the project, detailing its features, installation, usage, and more.
 
 ## Project Overview
