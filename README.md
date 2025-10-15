@@ -22,7 +22,7 @@ Welcome to **ThreadForce**, your one-stop destination for the latest in footwear
 - **Customer Support**: - 24/7 customer service for assistance.
 - **Responsive Design**: - Optimized for both desktop and mobile users.
 
-## Installation
+## How to Installation
 
 To set up the **Footcap** project locally, follow the instructions below:
 
